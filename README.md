@@ -12,4 +12,4 @@ Create new projects in the container with the Ionic CLI. Maybe do not init anoth
 ionic start myProject blank --no-git
 ```
 
-
+Open the folder of the new project in vscode.
