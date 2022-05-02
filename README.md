@@ -6,6 +6,7 @@ A template repository for a vscode devcontainer with ionic, cordova and android 
 
 In VSCode, use **Remote-Containers: Clone Repository in Container Volume...** to clone this repository into a container.
 
+### Start a new project
 Create new projects in the container with the Ionic CLI. Maybe do not init another git repo for the project.
 
 ```bash
