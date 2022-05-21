@@ -1,15 +1,18 @@
 # ionic-devcontainer
 
-A template repository for a vscode devcontainer with ionic, cordova and android build tools.
+A template repository for a vscode devcontainer for ionic angular.
 
-## Usage
+## Clone in VSCode
 
-In VSCode, use **Remote-Containers: Clone Repository in Container Volume...** to clone this repository into a container.
+Clone this template into a new repository.
 
-### Start a new project with the repo as name
+In VSCode, use **Remote-Containers: Clone Repository in Container Volume...** to clone the new repository into a container.
+
+## Start a new ionic project with the startup script
+The name of the current repo aka working directory will be used as project name by the script.
 
 ```bash
-bash start
+bash start.sh
 ```
 
 
