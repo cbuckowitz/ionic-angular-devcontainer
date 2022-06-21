@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:14
+FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:16
 
 # install ionic
 RUN npm install -g @angular/cli @ionic/cli 
